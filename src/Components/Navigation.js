@@ -4,7 +4,7 @@ const Navigation = () => {
         <nav className="nav-class">
           <div className="nav-icon">
             <img
-              src="/images/campus-icon.png"
+              src="https://franchiseneed.com/images/service/img_20190904104158633.png"
               alt="logo"
               className="nav-icon-img"
             />
