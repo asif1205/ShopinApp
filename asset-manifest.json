@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/asif1205/ShopinApp.git/static/css/main.3b24048e.css",
+    "main.js": "/asif1205/ShopinApp.git/static/js/main.8621f25d.js",
+    "index.html": "/asif1205/ShopinApp.git/index.html",
+    "main.3b24048e.css.map": "/asif1205/ShopinApp.git/static/css/main.3b24048e.css.map",
+    "main.8621f25d.js.map": "/asif1205/ShopinApp.git/static/js/main.8621f25d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b24048e.css",
+    "static/js/main.8621f25d.js"
+  ]
+}
